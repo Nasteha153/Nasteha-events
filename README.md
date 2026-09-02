@@ -56,4 +56,4 @@ The main goals of this project are to:
 
 **GitHub:https://github.com/Nasteha153/Nasteha-events
 
-**Live Demo:https://nasteha-events-ilfjp2n8a-nastehas-projects-5aaf3666.vercel.app/
+**Live Demo:https://nasteha-events.vercel.app/
